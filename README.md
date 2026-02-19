@@ -8,7 +8,7 @@ A comprehensive web-based platform designed to bridge the gap between blood dono
 -   Admin Dashboard: Manage donor records, blood stock levels, and user queries.
 -   Blood Stock Tracking: Automated updates of available units in the blood bank.
 -   Urgent Requests: Ability to post and view emergency blood requirements.
--   
+  
 ## Tech Stack
 -   Frontend: HTML5, CSS3, JavaScript (Bootstrap for styling)
 -   Backend: PHP 
