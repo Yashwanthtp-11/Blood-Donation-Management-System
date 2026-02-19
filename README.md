@@ -21,7 +21,7 @@ Follow these steps to run the project locally:
 
 1.   Clone the repository  
 
-   git clone [https://github.com/Yashwanthtp-11/Blood-Donation-Management-System-BDMS.git] (https://github.com/Yashwanthtp-11/Blood-Donation-Management-System-BDMS)
+   git clone [https://github.com/Yashwanthtp-11/Blood-Donation-Management-System.git] (https://github.com/Yashwanthtp-11/Blood-Donation-Management-System)
 
 2. Setup Database
 •	Open XAMPP Control Panel and start Apache and MySQL.
